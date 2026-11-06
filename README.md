@@ -4,6 +4,12 @@ Grafikus Python-alkalmazás friss tetoválások napi ápolásának és gyógyul�
 
 Add meg, hány nap telt el a tetoválás óta, és a program azonnal megmutatja az adott naphoz tartozó gyógyulási szakaszt, valamint a higiéniai és ápolási teendőket.
 
+## Képernyőképek
+
+| 0. nap | 7. nap | Érvénytelen bevitel |
+| --- | --- | --- |
+| ![A 0. nap teendői](docs/screenshots/friss-seb.png) | ![A 7. nap teendői](docs/screenshots/hamlas.png) | ![Hibaüzenet érvénytelen bevitelnél](docs/screenshots/hibauzenet.png) |
+
 ## Funkciók
 
 - **Napválasztás gombokkal:** a `−` és `+` gomb egy napot léptet, a szakaszgombok pedig az adott szakasz első napjára ugranak.
